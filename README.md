@@ -1,2 +1,5 @@
 # Flappy_Bird
-Project Unity Pertama
+My first unity 2d projects. A flappy bird game with projectiles.
+Controls:
+L-Click --- Fly
+Space --- Shoot projectiles
